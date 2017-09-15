@@ -19,7 +19,7 @@
     "hubot-scripts": "^2.17.2",
     "hubot-shell": "^1.0.2",
     "hubot-shipit": "^0.2.1",
-    "hubot-fb-workplace": "1.0.0"
+    "hubot-fb-workplace": ">1.0.0"
   },
   "engines": {}
 }
