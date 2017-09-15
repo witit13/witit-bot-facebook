@@ -1,1 +1,1 @@
-web: bin/hubot -a hubot-fb-workplace
+web: bin/hubot -a fb-workplace
