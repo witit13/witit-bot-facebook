@@ -1,1 +1,1 @@
-web: bin/hubot -a messenger-platform
+web: bin/hubot -a hubot-fb-workplace
